@@ -1,4 +1,0 @@
-model,accuracy,precision,recall,f1
-RandomForest,1.0,0.0,0.0,0.0
-DecisionTree,1.0,0.0,0.0,0.0
-CNN,1.0,0.0,0.0,0.0
